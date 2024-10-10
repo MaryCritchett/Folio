@@ -3,3 +3,6 @@ languageCode = 'fr'
 title = 'Folio Mary Critchett'
 theme = "gallery"
 canonifyURLs = true
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
