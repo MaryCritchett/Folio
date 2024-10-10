@@ -1,5 +1,5 @@
 baseURL = 'http://exemple.org/'
 languageCode = 'fr'
-title = 'Archives de réalisations de Alix T. CASAS'
-theme = 'lightbi-hugo'
+title = 'Folio Mary Critchett'
+theme = "gallery"
 canonifyURLs = true

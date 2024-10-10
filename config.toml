@@ -1,7 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = '0.111.0'
+theme = "gallery"
