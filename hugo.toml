@@ -1,0 +1,5 @@
+baseURL = 'http://exemple.org/'
+languageCode = 'fr'
+title = 'Archives de réalisations de Alix T. CASAS'
+theme = 'lightbi-hugo'
+canonifyURLs = true
