@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Animals on Folio Mary Critchett</title>
+    <title>Boucles d&#39;oreilles on Folio Mary Critchett</title>
     <link>http://localhost:1313/animals/</link>
-    <description>Recent content in Animals on Folio Mary Critchett</description>
+    <description>Recent content in Boucles d&#39;oreilles on Folio Mary Critchett</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/animals/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cats</title>
-      <link>http://localhost:1313/animals/cats/</link>
+      <title>Fleurs</title>
+      <link>http://localhost:1313/animals/fleurs/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/animals/cats/</guid><media:content url="http://localhost:1313/animals/cats/02_hu7062255930685979699.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/animals/fleurs/</guid><media:content url="http://localhost:1313/animals/fleurs/Boucle_0_hu6500569283003764976.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/animals/cats/02_hu7062255930685979699.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/animals/fleurs/Boucle_0_hu6500569283003764976.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Dogs</title>
-      <link>http://localhost:1313/animals/dogs/</link>
+      <title>Plantes</title>
+      <link>http://localhost:1313/animals/plantes/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/animals/plantes/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

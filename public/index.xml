@@ -8,34 +8,37 @@
     <language>fr</language>
     <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fashion &amp; Beauty</title>
-      <link>http://localhost:1313/fashion-beauty/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fashion-beauty/</guid><description>Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.</description></item>
-    <item>
-      <title>Nature</title>
-      <link>http://localhost:1313/nature/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
-    <item>
       <title>Linkedin</title>
       <link>http://localhost:1313/content/collections/2023/collections_about/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/content/collections/2023/collections_about/</guid><description>Moi</description></item>
     <item>
-      <title>Cats</title>
-      <link>http://localhost:1313/animals/cats/</link>
+      <title>Fleurs</title>
+      <link>http://localhost:1313/boucles_oreille/fleurs/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/animals/cats/</guid><media:content url="http://localhost:1313/animals/cats/02_hu7062255930685979699.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/boucles_oreille/fleurs/</guid><media:content url="http://localhost:1313/boucles_oreille/fleurs/Boucle_0_hu6500569283003764976.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/animals/cats/02_hu7062255930685979699.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/boucles_oreille/fleurs/Boucle_0_hu6500569283003764976.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Dogs</title>
-      <link>http://localhost:1313/animals/dogs/</link>
+      <title>Plantes</title>
+      <link>http://localhost:1313/boucles_oreille/plantes/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/boucles_oreille/plantes/</guid><media:content url="http://localhost:1313/boucles_oreille/plantes/Plantes_0_hu15655202153319054083.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/boucles_oreille/plantes/Plantes_0_hu15655202153319054083.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Winter color</title>
+      <link>http://localhost:1313/nature/winter_flowers/</link>
+      <pubDate>Sun, 23 Aug 1970 08:30:11 +0200</pubDate>
+      <guid>http://localhost:1313/nature/winter_flowers/</guid><media:content url="http://localhost:1313/nature/winter_flowers/Fleur_0_hu16645407184569149767.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/nature/winter_flowers/Fleur_0_hu16645407184569149767.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title></title>
       <link>http://localhost:1313/layouts/partials/footer_custom/</link>
