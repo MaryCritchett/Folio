@@ -1,6 +1,6 @@
 ---
 date: 2023-04-01
-featured_image: 02.jpg
+featured_image: Boucle_0.jpg
 title: Cats
 #type: gallery
 sort_by: Name
