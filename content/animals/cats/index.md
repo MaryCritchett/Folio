@@ -1,7 +1,7 @@
 ---
 date: 2023-04-01
 featured_image: Boucle_0.jpg
-title: Cats
+title: Fleurs
 #type: gallery
 sort_by: Name
 resources:
