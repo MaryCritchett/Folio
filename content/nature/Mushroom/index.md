@@ -7,8 +7,8 @@ sort_by: Name
 resources:
   - src: Fleur_1.jpg
     title: Cute mushrooms 
-  - src: Boucle_2.jpg
-    title: Selective focus photography of orange and white cat on brown table by Amber Kipp
+  - src: Fleur_2.jpg
+    title: Same Cute mushrooms 
   - src: Boucle_3.jpg
     title: "Gipsy the Cat was sitting on a bookshelf one afternoon and just stared right at me, kinda saying: “Will you take a picture already?”"
   - src: michael-sum-LEpfefQf4rU-unsplash.jpg
