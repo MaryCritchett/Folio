@@ -1,4 +1,5 @@
 ---
+description: Crevette réalisée pour le groupe de musique "Shrimpaler" 
 date: 2024_10_11
 featured_image: Shrimp_0.jpg
 title: Shrimp
@@ -6,7 +7,7 @@ title: Shrimp
 sort_by: Name
 resources:
   - src: Shrimp_0.jpg
-    title: Cute Shrimp done for the music group "Shrimpaler" 
+    title: Crevette pour le groupe de musique "Shrimpaler" 
   - src: Boucle_2.jpg
     title: Selective focus photography of orange and white cat on brown table by Amber Kipp
   - src: Boucle_3.jpg

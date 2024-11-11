@@ -1,7 +1,7 @@
 ---
-description: Exotic wildlife, pet kittens — and everything in between. Uncover the beauty of the animal kingdom through your screen.
+description: Nature et vie. Articles démonstratifs, pas à vendre. 
 featured_image: Fleur_0.jpg
-keywords: [Boucle, Oreille, Fleur, Plante]
+keywords: [Mushroom, shrimp, Fleur, Plante]
 title: Nature
 weight: 1
 menus: "main"

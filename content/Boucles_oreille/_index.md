@@ -1,5 +1,5 @@
 ---
-description: Exotic wildlife, pet kittens — and everything in between. Uncover the beauty of the animal kingdom through your screen.
+description: Boucles en tout genre, faites mains, en vente par couleurs personnalisables. 
 featured_image: janis-ringli-UC1pzyJFyvs-unsplash.jpg
 keywords: [Boucle, Oreille, Fleur, Plante]
 title: Boucles d'oreilles

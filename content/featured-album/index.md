@@ -1,8 +1,9 @@
 ---
 date: 2023-01-12
 featured_image: Featured_images_home.jpg
-title: Featured Album
+title: 
 featured: true
-private: true # do not show in list, only as feature
-description: This is a featured album. It is private, so it is only shown on the homepage.
+private: true
+
+description: 
 ---
