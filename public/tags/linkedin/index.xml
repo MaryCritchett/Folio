@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linkedin on Folio Mary Critchett</title>
+    <link>http://localhost:1313/tags/linkedin/</link>
+    <description>Recent content in Linkedin on Folio Mary Critchett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linkedin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linkedin</title>
+      <link>http://localhost:1313/content/collections/2023/collections_about/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/content/collections/2023/collections_about/</guid><description>Moi</description></item>
+  </channel>
+</rss>

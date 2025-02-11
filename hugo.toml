@@ -1,0 +1,7 @@
+baseURL = 'http://exemple.org/'
+languageCode = 'fr'
+title = 'Folio Mary Critchett'
+theme = "gallery"
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
