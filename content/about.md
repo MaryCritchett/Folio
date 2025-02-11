@@ -16,7 +16,7 @@ Je t'invite à te balader dessus pour découvrir mes créations. Elles sont tout
 
 Le métal utilisé pour les boucles d'oreilles est du ...
 
-Tu peux me contacter pour toutes questions ou commandes personnalisées à l'adresse suivante : mary.critchett@protonmail.com
+Tu peux me contacter pour toutes questions ou commandes personnalisées à l'adresse suivante : ?
 
 
 
