@@ -6,4 +6,8 @@ title: Article en vente
 weight: 1
 menus: "main"
 # list pages require at least one image to be displayed.
+
+
+params:
+  theme: light
 ---
