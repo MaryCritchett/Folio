@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mary Critchett - La Crochetterie on Folio Mary Critchett</title>
+    <title>Mary Critchett on Folio Mary Critchett</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Mary Critchett - La Crochetterie on Folio Mary Critchett</description>
+    <description>Recent content in Mary Critchett on Folio Mary Critchett</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -14,47 +14,47 @@
       <guid>http://localhost:1313/content/collections/2023/collections_about/</guid><description>Moi</description></item>
     <item>
       <title>Fleurs</title>
-      <link>http://localhost:1313/boucles_oreille/fleurs/</link>
+      <link>http://localhost:1313/article_vente/fleurs/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/boucles_oreille/fleurs/</guid><media:content url="http://localhost:1313/boucles_oreille/fleurs/Boucle_0_hu6500569283003764976.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/article_vente/fleurs/</guid><media:content url="http://localhost:1313/article_vente/fleurs/Boucle_10_hu_7d5fd24c9a9e072b.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/boucles_oreille/fleurs/Boucle_0_hu6500569283003764976.jpg&quot; /&gt;
-          &lt;p&gt;Fleurs de formes et couleurs différentes. Personnalisables en vente directe, prix négociables.&lt;/p&gt;
+          &lt;img src=&quot;http://localhost:1313/article_vente/fleurs/Boucle_10_hu_7d5fd24c9a9e072b.jpg&quot; /&gt;
+          &lt;p&gt;Boucles d&#39;oreilles aux motifs floraux de formes et couleurs différentes.&lt;/p&gt;
         </description></item>
     <item>
       <title>Plantes</title>
-      <link>http://localhost:1313/boucles_oreille/plantes/</link>
+      <link>http://localhost:1313/article_vente/plantes/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/boucles_oreille/plantes/</guid><media:content url="http://localhost:1313/boucles_oreille/plantes/Plantes_0_hu15655202153319054083.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/article_vente/plantes/</guid><media:content url="http://localhost:1313/article_vente/plantes/Plantes_0_hu_3f32265b42a2eeab.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/boucles_oreille/plantes/Plantes_0_hu15655202153319054083.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/article_vente/plantes/Plantes_0_hu_3f32265b42a2eeab.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Champignons</title>
-      <link>http://localhost:1313/nature/mushroom/</link>
+      <link>http://localhost:1313/galerie/mushroom/</link>
       <pubDate>Sun, 23 Aug 1970 08:30:11 +0200</pubDate>
-      <guid>http://localhost:1313/nature/mushroom/</guid><media:content url="http://localhost:1313/nature/mushroom/Fleur_1_hu8886625989704724424.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/galerie/mushroom/</guid><media:content url="http://localhost:1313/galerie/mushroom/Fleur_1_hu_b9605f4bd30ec5b8.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/nature/mushroom/Fleur_1_hu8886625989704724424.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/galerie/mushroom/Fleur_1_hu_b9605f4bd30ec5b8.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Fleurs en bouquets</title>
-      <link>http://localhost:1313/nature/fleur_bouquet/</link>
+      <link>http://localhost:1313/galerie/fleur_bouquet/</link>
       <pubDate>Sun, 23 Aug 1970 08:30:11 +0200</pubDate>
-      <guid>http://localhost:1313/nature/fleur_bouquet/</guid><media:content url="http://localhost:1313/nature/fleur_bouquet/Fleur_9_hu16952080017934717290.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/galerie/fleur_bouquet/</guid><media:content url="http://localhost:1313/galerie/fleur_bouquet/Fleur_9_hu_5020ec4473ea2bdf.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/nature/fleur_bouquet/Fleur_9_hu16952080017934717290.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/galerie/fleur_bouquet/Fleur_9_hu_5020ec4473ea2bdf.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Shrimp</title>
-      <link>http://localhost:1313/nature/animals/</link>
+      <link>http://localhost:1313/galerie/animals/</link>
       <pubDate>Sun, 23 Aug 1970 08:30:11 +0200</pubDate>
-      <guid>http://localhost:1313/nature/animals/</guid><media:content url="http://localhost:1313/nature/animals/Shrimp_0_hu2449963396280654835.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/galerie/animals/</guid><media:content url="http://localhost:1313/galerie/animals/Shrimp_0_hu_ba0e23c5e3a62aa5.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/nature/animals/Shrimp_0_hu2449963396280654835.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/galerie/animals/Shrimp_0_hu_ba0e23c5e3a62aa5.jpg&quot; /&gt;
           &lt;p&gt;Crevette réalisée pour le groupe de musique &#34;Shrimpaler&#34;&lt;/p&gt;
         </description></item>
     <item>

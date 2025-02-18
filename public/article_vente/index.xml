@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article en vente on Folio Mary Critchett</title>
+    <link>http://localhost:1313/article_vente/</link>
+    <description>Recent content in Article en vente on Folio Mary Critchett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/article_vente/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fleurs</title>
+      <link>http://localhost:1313/article_vente/fleurs/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/article_vente/fleurs/</guid><media:content url="http://localhost:1313/article_vente/fleurs/Boucle_10_hu_7d5fd24c9a9e072b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/article_vente/fleurs/Boucle_10_hu_7d5fd24c9a9e072b.jpg&quot; /&gt;
+          &lt;p&gt;Boucles d&#39;oreilles aux motifs floraux de formes et couleurs différentes.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Plantes</title>
+      <link>http://localhost:1313/article_vente/plantes/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/article_vente/plantes/</guid><media:content url="http://localhost:1313/article_vente/plantes/Plantes_0_hu_3f32265b42a2eeab.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/article_vente/plantes/Plantes_0_hu_3f32265b42a2eeab.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
