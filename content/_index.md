@@ -1,7 +1,7 @@
 ---
 description: Port Folio de Marie - Lyon
 #lastmod: 2023-07-05
-title: Mary Critchett - La Crochetterie 
+title: Mary Critchett 
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
   main:

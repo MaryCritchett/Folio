@@ -1,5 +1,5 @@
 ---
-description: Fleurs de formes et couleurs différentes. Personnalisables en vente directe, prix négociables. 
+description: Boucles d'oreilles aux motifs floraux de formes et couleurs différentes.  
 date: 2023-04-01
 featured_image: Boucle_0.jpg
 title: Fleurs
@@ -14,4 +14,8 @@ resources:
     title: 
   - src: michael-sum-LEpfefQf4rU-unsplash.jpg
     title: 
+---
+
+params:
+  theme: light
 ---
