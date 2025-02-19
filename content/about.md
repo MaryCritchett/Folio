@@ -3,7 +3,7 @@ layout: page
 rss_ignore: true
 
 featured_image: Mary.jpg
-title: La Crochetterie
+title: A propos
 menu:
   main:
     weight: 90
