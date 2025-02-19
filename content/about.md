@@ -14,9 +14,9 @@ Bonjour et bienvenue sur mon Port Folio où j'expose mes différentes oeuvres de
 
 Je t'invite à te balader dessus pour découvrir mes créations. Elles sont toutes uniques et faites à la main à Lyon. 
 
-Le métal utilisé pour les boucles d'oreilles est du ...
+Le métal utilisé pour les boucles d'oreilles est de l'acier inoxidable.
 
-Tu peux me contacter pour toutes questions ou commandes personnalisées à l'adresse suivante : ?
+Tu peux me contacter pour toutes questions ou commandes personnalisées à l'adresse suivante : mary.critchett@outlook.com
 
 
 
